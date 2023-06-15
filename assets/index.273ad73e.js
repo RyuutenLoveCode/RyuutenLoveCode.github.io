@@ -674,7 +674,7 @@ new jt({
             url: "https://github.com/RyuutenLoveCode"
         }, {
             icon: "fab fa-discord",
-            url: "https://discord.gg/basilcik"
+            url: "https://discord.gg/lastshine"
         }, {
             icon: "fab fa-instagram",
             url: "https://www.instagram.com/ryuu.ten/"
